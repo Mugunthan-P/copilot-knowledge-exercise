@@ -8,3 +8,5 @@
 6. Track Progress Weekly
 7. Communication Protocol (meetings, updates, preferred channels)
 8. Review and Adjust Tasks
+9. Project Closure and Documentation
+10. Risk Management
